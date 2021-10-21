@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca651016-64b4-4952-a356-9e1936567e91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/parametersTest/ParameterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/parametersTest/ParameterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/suite/IncludePackagesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suite/IncludePackagesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testCase2/demo1/Case1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testCase2/demo2/Case2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testCase2/demo3/Case3.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/parametersTest/ParameterDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/parametersTest/ParameterDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testCase2/demo1/Case1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/suite/IncludePackagesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/suite/IncludePackagesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testCase2/demo2/Case2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testCase2/demo3/Case3.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,51 +28,59 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="9" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="9" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="49" />
-          <entry key="xml" value="4" />
+          <entry key="java" value="1134" />
+          <entry key="txt" value="14" />
+          <entry key="xml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="49" />
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="XML" value="4" />
+          <entry key="JAVA" value="1134" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="XML" value="41" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/suite/IncludePackagesTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/parametersTest/dataProvider/MethodSourceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="347">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,9 +88,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/parametersTest/ParameterDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suite/IncludePackagesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/params.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/parametersTest/ParameterDemo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/parametersTest/MethodSourceDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/parametersTest/dataProvider/Params.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/parametersTest/dataProvider/MethodSourceDemo.java" />
       </list>
     </option>
   </component>
@@ -196,6 +207,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="parametersTest" type="462c0819:PsiDirectoryNode" />
+              <item name="dataProvider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junit5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hogwartsDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="suite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -237,6 +258,13 @@
               <item name="testCase2" type="462c0819:PsiDirectoryNode" />
               <item name="demo3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="junit5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hogwartsDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -247,7 +275,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634806501401" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634813612849" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -272,26 +300,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IncludePackagesTest">
-    <configuration name="IncludePackagesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hogwartsDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.suite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.suite" />
-      <option name="MAIN_CLASS_NAME" value="com.suite.IncludePackagesTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ParameterDemo.csvFileSourceTest">
     <configuration name="ParameterDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hogwartsDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.parametersTest.*" />
+          <option name="PATTERN" value="com.parametersTest.dataProvider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,47 +315,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParameterDemo.testValueSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParameterDemo.csvFileSourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hogwartsDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.parametersTest.*" />
+          <option name="PATTERN" value="com.parametersTest.dataProvider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.parametersTest" />
       <option name="MAIN_CLASS_NAME" value="com.parametersTest.ParameterDemo" />
-      <option name="METHOD_NAME" value="testValueSource(int)" />
+      <option name="METHOD_NAME" value="csvFileSourceTest(int,java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectClassesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParameterDemo.multiParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hogwartsDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.suite.*" />
+          <option name="PATTERN" value="com.parametersTest.dataProvider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.suite" />
-      <option name="MAIN_CLASS_NAME" value="com.suite.SelectClassesTest" />
+      <option name="PACKAGE_NAME" value="com.parametersTest" />
+      <option name="MAIN_CLASS_NAME" value="com.parametersTest.ParameterDemo" />
+      <option name="METHOD_NAME" value="multiParams(int,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterDemo.testCsvSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hogwartsDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parametersTest.dataProvider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parametersTest" />
+      <option name="MAIN_CLASS_NAME" value="com.parametersTest.ParameterDemo" />
+      <option name="METHOD_NAME" value="testCsvSource(int,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterDemo.testMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hogwartsDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parametersTest.dataProvider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parametersTest" />
+      <option name="MAIN_CLASS_NAME" value="com.parametersTest.ParameterDemo" />
+      <option name="METHOD_NAME" value="testMethodSource(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SelectClassesTest" />
       <item itemvalue="JUnit.ParameterDemo" />
-      <item itemvalue="JUnit.ParameterDemo.testValueSource" />
-      <item itemvalue="JUnit.IncludePackagesTest" />
+      <item itemvalue="JUnit.ParameterDemo.testMethodSource" />
+      <item itemvalue="JUnit.ParameterDemo.multiParams" />
+      <item itemvalue="JUnit.ParameterDemo.testCsvSource" />
+      <item itemvalue="JUnit.ParameterDemo.csvFileSourceTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IncludePackagesTest" />
-        <item itemvalue="JUnit.ParameterDemo.testValueSource" />
-        <item itemvalue="JUnit.SelectClassesTest" />
+        <item itemvalue="JUnit.ParameterDemo.csvFileSourceTest" />
+        <item itemvalue="JUnit.ParameterDemo.testCsvSource" />
+        <item itemvalue="JUnit.ParameterDemo.multiParams" />
+        <item itemvalue="JUnit.ParameterDemo.testMethodSource" />
         <item itemvalue="JUnit.ParameterDemo" />
       </list>
     </recent_temporary>
@@ -356,35 +406,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634804135879</updated>
-      <workItem from="1634804139040" duration="2069000" />
+      <workItem from="1634804139040" duration="7278000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SelectClassesTest - 2021.10.21 at 16h 19m 05s.xml">
-      <configuration name="SelectClassesTest" configurationId="JUnit" />
+    <history-entry file="ParameterDemo_testMethodSource - 2021.10.21 at 17h 43m 50s.xml">
+      <configuration name="ParameterDemo.testMethodSource" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParameterDemo - 2021.10.21 at 16h 37m 39s.xml">
-      <configuration name="ParameterDemo" configurationId="JUnit" />
+    <history-entry file="ParameterDemo_testMethodSource - 2021.10.21 at 17h 44m 33s.xml">
+      <configuration name="ParameterDemo.testMethodSource" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParameterDemo - 2021.10.21 at 16h 42m 42s.xml">
-      <configuration name="ParameterDemo" configurationId="JUnit" />
+    <history-entry file="ParameterDemo_testMethodSource - 2021.10.21 at 17h 45m 50s.xml">
+      <configuration name="ParameterDemo.testMethodSource" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectClassesTest - 2021.10.21 at 16h 48m 40s.xml">
-      <configuration name="SelectClassesTest" configurationId="JUnit" />
+    <history-entry file="ParameterDemo_testMethodSource - 2021.10.21 at 17h 47m 03s.xml">
+      <configuration name="ParameterDemo.testMethodSource" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParameterDemo_testValueSource - 2021.10.21 at 16h 49m 08s.xml">
-      <configuration name="ParameterDemo.testValueSource" configurationId="JUnit" />
+    <history-entry file="ParameterDemo_testMethodSource - 2021.10.21 at 17h 48m 23s.xml">
+      <configuration name="ParameterDemo.testMethodSource" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IncludePackagesTest - 2021.10.21 at 16h 49m 44s.xml">
-      <configuration name="IncludePackagesTest" configurationId="JUnit" />
+    <history-entry file="ParameterDemo_multiParams - 2021.10.21 at 17h 54m 23s.xml">
+      <configuration name="ParameterDemo.multiParams" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IncludePackagesTest - 2021.10.21 at 16h 52m 56s.xml">
-      <configuration name="IncludePackagesTest" configurationId="JUnit" />
+    <history-entry file="ParameterDemo_multiParams - 2021.10.21 at 17h 54m 43s.xml">
+      <configuration name="ParameterDemo.multiParams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParameterDemo_testCsvSource - 2021.10.21 at 18h 00m 35s.xml">
+      <configuration name="ParameterDemo.testCsvSource" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParameterDemo_csvFileSourceTest - 2021.10.21 at 18h 05m 36s.xml">
+      <configuration name="ParameterDemo.csvFileSourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParameterDemo_csvFileSourceTest - 2021.10.21 at 18h 06m 24s.xml">
+      <configuration name="ParameterDemo.csvFileSourceTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2069000" />
+    <option name="totallyTimeSpent" value="7278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -395,8 +454,9 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="ExcelReader" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -404,7 +464,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2719547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,16 +491,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/parametersTest/ParameterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/suite/SelectClassesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -448,13 +498,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -467,8 +510,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/suite/IncludePackagesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="266">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/params.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/parametersTest/ParameterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1325#1326#0" expanded="true" />
+            <element signature="e#1376#1377#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1655#1656#0" expanded="true" />
+            <element signature="e#1707#1708#0" expanded="true" />
+            <element signature="e#1830#1831#0" expanded="true" />
+            <element signature="e#1882#1883#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/parametersTest/dataProvider/Params.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/parametersTest/dataProvider/MethodSourceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
